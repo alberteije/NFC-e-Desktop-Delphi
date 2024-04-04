@@ -4,7 +4,7 @@ Description: Tela principal da NFCe - Caixa.
 
 The MIT License
 
-Copyright: Copyright (C) 2015 T2Ti.COM
+Copyright: Copyright (C) 2024 T2Ti.COM
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -378,7 +378,7 @@ begin
   FDataModule.ACBrNFeDanfeFR.PathPDF := ObjetoNfeConfiguracaoVO.CaminhoSalvarPdf;
 
   FDataModule.ACBrNFe.Configuracoes.Geral.ModeloDF := moNFCe;
-  FDataModule.ACBrNFe.Configuracoes.Geral.VersaoDF := ve310;
+  FDataModule.ACBrNFe.Configuracoes.Geral.VersaoDF := ve400;
 
   FDataModule.ACBrNFeDANFEFR.FastFile := 'DANFeNFCe.fr3';
 

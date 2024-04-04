@@ -4,7 +4,7 @@ Description:  VO  relacionado à tabela [NFE_EXPORTACAO]
                                                                                 
 The MIT License                                                                 
                                                                                 
-Copyright: Copyright (C) 2014 T2Ti.COM                                          
+Copyright: Copyright (C) 2024 T2Ti.COM                                          
                                                                                 
 Permission is hereby granted, free of charge, to any person                     
 obtaining a copy of this software and associated documentation                  
@@ -31,7 +31,7 @@ OTHER DEALINGS IN THE SOFTWARE.
            t2ti.com@gmail.com                                                   
                                                                                 
 @author Albert Eije (t2ti.com@gmail.com)                    
-@version 2.0                                                                    
+@version 4.0                                                                    
 *******************************************************************************}
 unit NfeExportacaoVO;
 

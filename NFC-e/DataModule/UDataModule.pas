@@ -4,7 +4,7 @@
 
   The MIT License
 
-  Copyright: Copyright (C) 2015 T2Ti.COM
+  Copyright: Copyright (C) 2024 T2Ti.COM
 
   Permission is hereby granted, free of charge, to any person
   obtaining a copy of this software and associated documentation
@@ -31,7 +31,7 @@
   t2ti.com@gmail.com</p>
 
   @author Albert Eije (t2ti.com@gmail.com)
-  @version 2.0
+  @version 4.0
   ******************************************************************************* }
 unit UDataModule;
 
