@@ -16,6 +16,6 @@
 									<img src="https://img.youtube.com/vi/Qw57gsBC92E/maxresdefault.jpg" alt="telas" /> </a>
 				</center>
 							<hr />
-						Protótipo feito no Delphi XE5. Protótipo feito com arquitetura cliente/servidor (duas camadas).
+						Protótipo feito no Delphi XE5. Protótipo feito com arquitetura cliente/servidor (duas camadas).  
 </html>
 
